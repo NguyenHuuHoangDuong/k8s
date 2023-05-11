@@ -35,5 +35,5 @@
         Use health checks to ensure that your pods are healthy.
         Use logging and monitoring to track the health of your pods.
 
-![alt text](C:\Users\Duong Nguyen\Desktop\K8s\k8s\folder image\download.jpg) 
+![alt text](download.jpg) 
 
