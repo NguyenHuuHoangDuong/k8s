@@ -45,6 +45,7 @@
 
 ![Alt text](k8s/folder%20image/download.jpg)
 
-### POD là gì? 
+-   ### POD là gì? 
     - là thành phần nhỏ nhất của k8s
-    - 
+    - abstraction over containers, cung cấp một lớp quản lý bổ sung cho các container, Điều này cho phép kubernetes quản lý các Pod thay vì các container trực tiếp và cung cấp tính linh hoạt hơn trong việc triển khai và quản lý các ứng dụng. => Kube quản lý Pod thôi, Pod quản lí container
+    - Pod có thể chứa 1 hoặc nhiều container và container trong cùng một Pod sẽ chia sẻ `tài nguyên lưu trữ và mạng`
